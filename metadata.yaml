@@ -1,0 +1,38 @@
+_repo: Considera--es-sobre-a-Philosophia-da-Historia-Litteraria-Portugueza--13--a-proposito-d-alguns__32791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Tarquino do Quental, Anthero
+    - Tarquinio de Quental, Anthero
+    - Quental, Anthero de
+    - De Quental, Antero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+description: ''
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32791'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Oliveira Martins, J. P. (Joaquim Pedro), 1845-1894. Lusiadas: ensaio sobre
+  Camões'
+- !lcsh 'Chagas, Manuel Pinheiro, 1842-1895. Desenvolvimento da litteratura portugueza'
+- !lcsh 'Braga, Teófilo, 1843-1924. Theoria da historia da litteratura portugueza'
+title: "Considerações sobre a Philosophia da Historia Litteraria Portugueza\r\n(a\
+  \ proposito d'alguns livros recentes)"
+url: http://www.gutenberg.org/ebooks/32791
